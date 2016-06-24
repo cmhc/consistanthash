@@ -1,0 +1,4 @@
+vendor/*
+.htaccess
+*.html
+*.lock
